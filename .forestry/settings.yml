@@ -8,7 +8,7 @@ sections:
   label: Content
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
   templates:
   - post
 - type: jekyll-pages
