@@ -9,7 +9,7 @@ sections:
   label: Root pages
   create: documents
   match: "*.md"
-  exclude: "{404\\.md}"
+  exclude: "{404\\.md,index\\.md}"
   templates:
   - default
 - type: heading
