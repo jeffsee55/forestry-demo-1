@@ -4,6 +4,14 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: Root pages
+  create: documents
+  match: "*.md"
+  exclude: "{/404.md}"
+  templates:
+  - default
 - type: heading
   label: Content
 - type: jekyll-posts
