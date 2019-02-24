@@ -40,4 +40,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/this-it-the-title-of-the-post.md
+- _posts/this-is-the-title-of-the-post.md
