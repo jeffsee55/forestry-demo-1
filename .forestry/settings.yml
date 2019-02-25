@@ -51,7 +51,6 @@ public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
-instant_preview: true
 build:
   preview_command: bundle exec jekyll build -b "" --drafts --unpublished --future
     -d _site
