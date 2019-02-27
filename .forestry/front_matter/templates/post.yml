@@ -39,5 +39,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/this-is-the-title-of-the-post.md
