@@ -18,6 +18,7 @@ fields:
     description: This is some info
     config:
       required: true
+    default: Some info
   - type: list
     name: sortable_list
     label: Sortable list
