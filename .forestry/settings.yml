@@ -39,6 +39,7 @@ sections:
   create: all
   match: "*"
   templates:
+  - test
   - project
 - type: document
   path: _data/information.yml
