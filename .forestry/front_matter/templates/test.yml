@@ -30,5 +30,8 @@ fields:
     - Tag 1
     - Tag 2
     - Tag 3
+- type: tag_list
+  name: tags
+  label: Tags
 pages:
 - _projects/Test.md
