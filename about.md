@@ -9,9 +9,15 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
   research.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
+name:
+- info: Some info
+  sortable_list:
+  - Tag 1
+  - Tag 2
+  - Tag 3
+tags:
+- about
 published: false
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+This is a duplicate of about page.
