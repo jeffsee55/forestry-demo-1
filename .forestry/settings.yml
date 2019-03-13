@@ -36,7 +36,7 @@ sections:
 - type: directory
   path: _projects
   label: Projects
-  create: all
+  create: documents
   match: "*.md"
   templates:
   - project
