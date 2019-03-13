@@ -37,9 +37,8 @@ sections:
   path: _projects
   label: Projects
   create: all
-  match: "*"
+  match: "*.md"
   templates:
-  - test
   - project
 - type: document
   path: _data/information.yml
