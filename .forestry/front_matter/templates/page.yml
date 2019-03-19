@@ -8,6 +8,9 @@ fields:
 - type: datetime
   name: date
   label: date
+  description: Date
+  config:
+    date_format: DD/MM/YYYY
 - type: file
   name: banner_image
   label: banner_image
