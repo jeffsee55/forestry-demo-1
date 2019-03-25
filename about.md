@@ -9,7 +9,7 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
   research.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
-description: Something about something
+description: Something about something about.
 menu:
   footer:
     identifier: _about
