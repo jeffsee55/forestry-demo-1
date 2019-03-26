@@ -9,8 +9,6 @@ banner_image: ''
 related_posts: []
 
 ---
-One. 
-
-Two.  
-  
-Three.
+1. One. 
+2. Two.
+3. Three.
