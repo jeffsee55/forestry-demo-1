@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/evolution-poids-2018-2019.png"
+banner_image: "/uploads/Capture d'écran 2019-03-24 16.07.39.png"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
