@@ -8,4 +8,4 @@ banner_image: ''
 related_posts: []
 
 ---
-This command will copy your public key (\`\~/.ssh/id_rsa.pub\`) in the remote file \`\~/.ssh/authenticated_keys\`"
+This command will copy your public key (`~/.ssh/id_rsa.pub`) in the remote file `\~/.ssh/authenticated_keys\`
