@@ -1,0 +1,28 @@
+---
+label: Kelly
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: role
+  label: role
+- type: text
+  name: sub_heading
+  label: sub_heading
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: email
+  label: email
+- type: text
+  name: linkedin
+  label: linkedin
+- type: text
+  name: layout
+  label: layout
