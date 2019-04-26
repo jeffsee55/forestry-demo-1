@@ -2,11 +2,6 @@
 label: post
 hide_body: false
 fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
 - type: text
   label: Sub Heading
   name: sub_heading
