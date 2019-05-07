@@ -33,7 +33,7 @@ fields:
   type: text
   hidden: true
   default: post
-- name: images
+- name: gallery
   type: field_group_list
   fields:
   - name: image
@@ -55,7 +55,7 @@ fields:
     min: 
     max: 
     labelField: name
-  label: Images
+  label: Gallery
 pages:
 - _posts/loops.md
 - _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
