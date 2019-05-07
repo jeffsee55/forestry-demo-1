@@ -23,3 +23,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- en/this-is-a-page.md
