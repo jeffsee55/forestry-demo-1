@@ -33,6 +33,29 @@ fields:
   type: text
   hidden: true
   default: post
+- name: images
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: '1'
+    label: image
+  - name: name
+    type: text
+    config:
+      required: false
+    label: name
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: caption
+  config:
+    min: 
+    max: 
+    labelField: name
+  label: Images
 pages:
 - _posts/loops.md
 - _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
