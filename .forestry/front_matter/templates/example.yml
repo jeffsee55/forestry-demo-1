@@ -2,6 +2,11 @@
 label: Example
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: number
   type: number
   label: Number
@@ -12,3 +17,13 @@ fields:
     min: '0'
     max: '10'
     step: ''
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
