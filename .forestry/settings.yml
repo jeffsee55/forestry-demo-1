@@ -18,8 +18,8 @@ sections:
   label: Posts
   create: documents
   templates:
-  - example
   - post
+  - example
 - type: jekyll-pages
   label: Pages
   create: all
