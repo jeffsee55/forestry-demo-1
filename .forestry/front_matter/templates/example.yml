@@ -1,4 +1,14 @@
 ---
 label: Example
 hide_body: false
-fields: []
+fields:
+- name: number
+  type: number
+  label: Number
+  description: Test
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: '10'
+    step: ''
