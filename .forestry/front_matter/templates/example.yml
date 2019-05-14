@@ -7,25 +7,15 @@ fields:
   config:
     required: false
   label: Title
-- name: number
-  type: number
-  label: Number
-  description: Test
-  default: 0
-  required: true
-  config:
-    min: '0'
-    max: '10'
-    step: ''
-- name: date
-  type: datetime
-  label: date
-  description: ''
+- name: description
+  type: text
   config:
     required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-  default: now
+  label: description
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
 pages:
 - _posts/example.md
