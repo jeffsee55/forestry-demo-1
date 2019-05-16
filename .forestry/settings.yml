@@ -9,7 +9,7 @@ sections:
   label: Not French
   create: all
   match: "**/*"
-  exclude: fr
+  exclude: "{ fr }"
   templates:
   - page
 - type: directory
