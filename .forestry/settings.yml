@@ -6,6 +6,14 @@ webhook_url: https://webhook.site/83ee4946-5c3b-43a0-9ba4-f1b3a0126372
 sections:
 - type: directory
   path: ''
+  label: Not French
+  create: all
+  match: "**/*"
+  exclude: fr
+  templates:
+  - page
+- type: directory
+  path: ''
   label: Root pages
   create: documents
   match: "*.md"
@@ -24,7 +32,6 @@ sections:
   label: Pages
   create: all
   templates:
-  - test
   - landing-page
   - default
 - type: directory
