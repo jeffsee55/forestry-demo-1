@@ -5,5 +5,30 @@ sub_heading: ''
 tags: []
 banner_image: ''
 related_posts: []
+gallery: []
 
 ---
+# Main title
+
+Table of contents
+
+1. [First section](#first)
+2. Second
+
+
+1. First Step  
+   This is note inside the first step
+   * Let's add some bullets here
+   * And here
+2. Second step  
+   This is my second step description inside an li
+   * This is a bullet
+3. etc.
+
+**Tips**
+
+* Hold SHIFT+ENTER to add a LR inside a list item.
+* Type TAB to nest a list within a list
+* Click Unordered list icon to switch list style
+
+## First Section {#first}
