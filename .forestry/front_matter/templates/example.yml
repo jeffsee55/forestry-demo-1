@@ -17,6 +17,34 @@ fields:
   config:
     maxSize: 250
   label: image
+- name: authors
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: name
+  - name: bio
+    type: text
+    config:
+      required: false
+    label: bio
+  - name: photo
+    type: file
+    config:
+      maxSize: 250
+    label: photo
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  config:
+    min: 
+    max: 
+    labelField: name
+  label: Authors
 pages:
 - _posts/example.md
 - _posts/2019-05-14-this-template-has-no-date.md
