@@ -11,6 +11,8 @@ fields:
   type: datetime
   hidden: false
   default: now
+  config:
+    date_format: LL
 - name: tags
   label: Tags
   type: tag_list
