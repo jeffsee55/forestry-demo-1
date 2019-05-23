@@ -13,6 +13,15 @@ fields:
   default: now
   config:
     date_format: LL
+- name: _date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: tags
   label: Tags
   type: tag_list
