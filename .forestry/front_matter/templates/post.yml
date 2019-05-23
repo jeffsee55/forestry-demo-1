@@ -13,7 +13,7 @@ fields:
   default: now
   config:
     date_format: LL
-- name: _date
+- name: date
   type: datetime
   label: Date
   description: ''
