@@ -46,7 +46,6 @@ fields:
     labelField: name
   label: Authors
 pages:
-- _posts/2019-05-14-this-template-has-no-date.md
+- _posts/example.md
 - _posts/test.md
 - _posts/2019-05-14-this-template-has-no-date.md
-- _posts/example.md
