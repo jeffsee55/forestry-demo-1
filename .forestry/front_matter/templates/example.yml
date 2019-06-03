@@ -33,7 +33,7 @@ fields:
   - name: photo
     type: file
     config:
-      maxSize: 250
+      maxSize: '0.1'
     label: photo
   - name: url
     type: text
