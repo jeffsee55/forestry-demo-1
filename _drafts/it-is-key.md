@@ -1,5 +1,5 @@
 ---
-date: 2019-03-28 08:17:18 +0100
+date: 2019-03-28T07:17:18.000+00:00
 layout: post
 title: Setup SSH
 sub_heading: It's the key!
