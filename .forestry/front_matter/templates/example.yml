@@ -45,6 +45,18 @@ fields:
     max: 
     labelField: name
   label: Authors
+- name: pages
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: jekyll-posts
+      file: 
+      path: ''
+  label: Pages
 pages:
 - _posts/2019-05-14-this-template-has-no-date.md
 - _posts/example.md
