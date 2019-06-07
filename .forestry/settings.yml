@@ -43,6 +43,7 @@ public_path: https://forestry-demo.netlify.com/uploads
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
+instant_preview: true
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
   publish_command: bundle exec jekyll build -d _site
@@ -56,3 +57,5 @@ build:
   output_directory: docs/_site
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d site
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
