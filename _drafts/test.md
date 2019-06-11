@@ -13,7 +13,8 @@ authors:
   url: https://example.com
 title: ''
 description: ''
-image: ''
+image: "/2019/05/11/empty-state-media.png"
+pages: ''
 
 ---
 # Main title
