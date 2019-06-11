@@ -41,7 +41,7 @@ sections:
 upload_dir: uploads
 public_path: https://forestry-demo.netlify.com/uploads
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: true
 build:
