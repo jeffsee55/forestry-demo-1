@@ -65,7 +65,7 @@ fields:
     options: []
     source:
       type: pages
-      section: people
+      section: projects
       file: 
       path: 
   label: people
