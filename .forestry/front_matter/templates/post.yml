@@ -6,7 +6,7 @@ fields:
   label: Sub Heading
   name: sub_heading
   default: ''
-- name: date
+- name: publishdate
   label: Publish Date
   type: datetime
   hidden: false
