@@ -23,6 +23,7 @@ sections:
   label: People
   create: all
   match: "*"
+  exclude: "{_index.md}"
   templates:
   - person
 - type: directory
