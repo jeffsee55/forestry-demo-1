@@ -12,6 +12,22 @@ fields:
   config:
     required: false
   label: description
+- name: type
+  type: select
+  default: blog
+  config:
+    required: true
+    options:
+    - blog
+    - case-studies
+    - news
+    - downloads
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: type
 - name: image
   type: file
   config:
