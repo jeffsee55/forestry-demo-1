@@ -1,4 +1,15 @@
 ---
 label: Number defaults required
 hide_body: true
-fields: []
+fields:
+- name: position
+  type: number
+  label: position
+  description: ''
+  default: "-1"
+  required: true
+  config:
+    min: '0'
+    max: '99'
+    step: '1'
+    required: true
