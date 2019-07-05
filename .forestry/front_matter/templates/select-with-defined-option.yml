@@ -17,3 +17,5 @@ fields:
       file: 
       path: 
   label: Menu
+pages:
+- _posts/test-1.md
