@@ -1,4 +1,19 @@
 ---
 label: Select with defined option
 hide_body: true
-fields: []
+fields:
+- name: menu
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - tacos
+    - wines
+    - sodas
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Menu
