@@ -10,6 +10,7 @@ sections:
   label: Posts
   create: documents
   templates:
+  - select-with-defined-option
   - post
   - example
 - type: jekyll-pages
