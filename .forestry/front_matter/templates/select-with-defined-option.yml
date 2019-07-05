@@ -2,7 +2,7 @@
 label: Select with defined option
 hide_body: true
 fields:
-- name: menu
+- name: custom-menu
   type: select
   default: ''
   config:
@@ -16,6 +16,6 @@ fields:
       section: 
       file: 
       path: 
-  label: Menu
+  label: Menu Custom
 pages:
 - _posts/test-1.md
