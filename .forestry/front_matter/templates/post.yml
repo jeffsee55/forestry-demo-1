@@ -26,7 +26,8 @@ fields:
   label: Tags
   type: tag_list
   hidden: false
-  default: ''
+  default:
+  - blog
 - type: file
   name: banner_image
   label: Banner Image
@@ -38,7 +39,7 @@ fields:
     use_select: true
     source:
       type: pages
-      section: posts
+      section: jekyll-posts
 - name: layout
   label: Layout
   type: text
