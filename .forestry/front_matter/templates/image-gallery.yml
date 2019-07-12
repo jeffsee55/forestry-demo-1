@@ -1,4 +1,17 @@
 ---
 label: Image Gallery
 hide_body: true
-fields: []
+fields:
+- name: gallery
+  type: field_group_list
+  fields:
+  - name: photo
+    type: include
+    config: {}
+    template: accessible-image
+    label: Photo
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Gallery
