@@ -7,6 +7,12 @@ tags: []
 banner_image: ''
 related_posts: []
 gallery: []
+publishdate: 
+category: ''
 
 ---
-This command will copy your public key (`~/.ssh/id_rsa.pub`) in the remote file (`~/.ssh/authenticated_keys`)
+This command will copy your public key (`~/.ssh/id_rsa.p` _in the remote file (`\~/.ssh/authenticated_keys`)
+
+OK. and now this can be edited.
+
+Let's add some javascript:
