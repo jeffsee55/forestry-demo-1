@@ -1,14 +1,16 @@
 ---
 title: A new page!
-date: 2017-11-01 03:00:00 +0000
+date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/Capture d'écran 2019-03-24 16.07.39.png"
 heading: 'That''s what I care about : double quotes !'
 sub_heading: Ora et Labora
 layout: landing-page
 textline: 'That''s what I care about : double quotes !'
-publish_date: 2017-12-01 04:00:00 +0000
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 description: Something about something
+gallery:
+- title: My image
 published: false
 
 ---
