@@ -1,8 +1,7 @@
 ---
-title: Belkirk College of Engineering
+title: Jekyll Demo Website
 short_title: Belkirk
 description: Belkirk Demo Site for Forestry.io
-# baseurl: /forestry-demo
 permalink: "/:path/"
 defaults:
 - scope:
