@@ -1,4 +1,29 @@
 ---
 label: Accessible image
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- name: alt
+  type: text
+  config:
+    required: false
+  label: Alternative text
+- name: caption
+  type: text
+  config:
+    required: false
+  label: Caption
+- name: aria-label
+  type: text
+  config:
+    required: false
+  label: Aria Label
