@@ -12,3 +12,5 @@ fields:
       type: pages
       section: jekyll-posts
   label: reading list
+pages:
+- _posts/sortable.md
