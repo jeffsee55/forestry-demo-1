@@ -1,6 +1,6 @@
 ---
 label: Sortable list empty values
-hide_body: true
+hide_body: false
 fields:
 - name: reading_list
   type: list
