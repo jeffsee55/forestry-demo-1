@@ -1,4 +1,14 @@
 ---
 label: Sortable list empty values
 hide_body: true
-fields: []
+fields:
+- name: reading_list
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: jekyll-posts
+  label: reading list
