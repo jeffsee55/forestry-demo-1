@@ -10,6 +10,7 @@ sections:
   label: Posts
   create: documents
   templates:
+  - sortable-list-empty-values
   - select-with-defined-option
   - post
   - example
