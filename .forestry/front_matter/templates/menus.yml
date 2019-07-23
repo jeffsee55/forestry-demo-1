@@ -7,8 +7,8 @@ fields:
   label: nav
   fields:
   - type: text
-    name: url
-    label: url
-  - type: text
     name: title
     label: title
+  - type: text
+    name: url
+    label: url
