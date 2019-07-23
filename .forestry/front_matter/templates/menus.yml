@@ -14,3 +14,5 @@ fields:
     label: url
   config:
     labelField: title
+pages:
+- _data/menus.yml
