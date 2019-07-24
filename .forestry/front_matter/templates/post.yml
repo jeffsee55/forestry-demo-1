@@ -70,7 +70,7 @@ fields:
   label: Gallery
 - name: category
   type: select
-  default: []
+  default: general
   config:
     required: false
     options:
@@ -78,10 +78,10 @@ fields:
     - two
     - three
     source:
-      type: simple
-      section: 
-      file: 
-      path: 
+      type: documents
+      section: categories
+      file: _data/categories.yml
+      path: categories
   label: category
 pages:
 - _posts/it-is-key.md
