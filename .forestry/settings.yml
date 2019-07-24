@@ -38,11 +38,15 @@ sections:
 - type: heading
   label: Data
 - type: document
-  path: _data/information.yml
-  label: Contact Information
+  path: _data/categories.yml
+  label: Categories
+  match: "**/*"
 - type: document
   path: _data/menus.yml
   label: Menus
+- type: document
+  path: _data/information.yml
+  label: Contact Information
 - type: document
   path: _config.yml
   label: Config
