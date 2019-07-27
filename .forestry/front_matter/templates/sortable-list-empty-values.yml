@@ -12,5 +12,15 @@ fields:
       type: pages
       section: jekyll-posts
   label: reading list
+- name: step
+  type: number
+  label: step
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: '0'
+    max: '10'
+    step: '0.1'
 pages:
 - _posts/sortable.md
