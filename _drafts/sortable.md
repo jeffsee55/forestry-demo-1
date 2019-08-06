@@ -8,6 +8,7 @@ layout: post
 category: general
 sub_heading: Searching for content
 related_posts:
+- _posts/sortable.md
 - _posts/2017-08-01-welcome.md
 date: 
 banner_image: ''
