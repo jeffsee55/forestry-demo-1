@@ -40,7 +40,7 @@ fields:
     use_select: true
     source:
       type: pages
-      section: jekyll-pages
+      section: jekyll-posts
 - name: layout
   label: Layout
   type: text
