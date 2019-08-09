@@ -84,6 +84,16 @@ fields:
       file: _data/categories.yml
       path: categories
   label: category
+- name: this_is_a_label
+  type: number
+  label: This is a Label
+  description: Here goes the description
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _posts/sortable.md
 - _posts/2017-02-12-modern.md
