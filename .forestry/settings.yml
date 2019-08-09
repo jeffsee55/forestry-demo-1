@@ -54,17 +54,10 @@ public_path: https://forestry-demo.netlify.com/uploads
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":year:/:month:/:filename:"
-instant_preview: true
 build:
-  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
-  publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
-  publish_env:
-  - JEKYLL_ENV=production
-  - BUILD_DIR=docs
   preview_output_directory: _site
-  output_directory: docs/_site
   install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
