@@ -1,7 +1,7 @@
 ---
 reading_list: []
 step: 
-publishdate: 2019-08-06 21:50:56 +0200
+publishdate: 
 tags:
 - blog
 layout: post
@@ -10,8 +10,10 @@ sub_heading: Searching for content
 related_posts:
 - _posts/sortable.md
 - _posts/2017-08-01-welcome.md
-date: 
+date: Dec 2018
 banner_image: ''
 gallery: []
+this_is_a_label: 
+markdown_description: ''
 
 ---
