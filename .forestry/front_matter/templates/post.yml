@@ -94,6 +94,16 @@ fields:
     min: 
     max: 
     step: 
+- name: markdown_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Markdown description
+  description: You can write Markdown here
 pages:
 - _posts/sortable.md
 - _posts/2017-02-12-modern.md
