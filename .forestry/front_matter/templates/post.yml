@@ -71,7 +71,7 @@ fields:
   label: Gallery
 - name: category
   type: select
-  default: general
+  default: ''
   config:
     required: false
     options:
@@ -80,9 +80,9 @@ fields:
     - three
     source:
       type: documents
-      section: categories
-      file: _data/categories.yml
-      path: categories
+      section: category
+      file: _data/category.json
+      path: categorySlugs
   label: category
 - name: this_is_a_label
   type: number
