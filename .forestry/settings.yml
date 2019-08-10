@@ -4,9 +4,6 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: https://webhook.site/83ee4946-5c3b-43a0-9ba4-f1b3a0126372
 sections:
-- type: document
-  path: _data/category.json
-  label: Category
 - type: heading
   label: Content
 - type: jekyll-posts
@@ -40,6 +37,9 @@ sections:
   - project
 - type: heading
   label: Data
+- type: document
+  path: _data/category.json
+  label: Category
 - type: document
   path: _data/categories.yml
   label: Categories
