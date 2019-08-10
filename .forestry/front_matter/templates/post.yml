@@ -105,6 +105,6 @@ fields:
   label: Markdown description
   description: You can write Markdown here
 pages:
+- _posts/2017-02-12-modern.md
 - _posts/it-is-key.md
 - _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
-- _posts/2017-02-12-modern.md
