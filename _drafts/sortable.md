@@ -1,11 +1,11 @@
 ---
 reading_list: []
-step: 
-publishdate: 
+step: 0.2
+publishdate: ''
 tags:
 - blog
 layout: post
-category: general
+category: ''
 sub_heading: Searching for content
 related_posts:
 - _posts/sortable.md
