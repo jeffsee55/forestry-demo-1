@@ -8,19 +8,9 @@ fields:
   config:
     required: false
   label: name
-- name: reading_list
-  type: list
-  config:
-    use_select: true
-    min: '0'
-    max: '3'
-    source:
-      type: pages
-      section: jekyll-posts
-  label: reading list
 - name: hide_number
   type: boolean
-  label: Hide step
+  label: Show step?
   default: true
 - name: step
   type: number
@@ -47,5 +37,15 @@ fields:
       file: 
       path: 
   label: show reading list
+- name: reading_list
+  type: list
+  config:
+    use_select: true
+    min: '0'
+    max: '3'
+    source:
+      type: pages
+      section: jekyll-posts
+  label: reading list
 pages:
 - _posts/sortable.md
