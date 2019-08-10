@@ -1,8 +1,22 @@
-{
-    "categorySlugs": [
-        "building-your-website/",
-        "entrepreneurship/",
-        "marketing/",
-        "startup/"
-    ]
-}
+[
+  {
+    "name": "Startup",
+    "slug": "startup/",
+    "description": "All about the initial step of getting a business off the ground! How to get ideas, test ideas, and grab a foothold in the marketplace."
+  },
+  {
+    "name": "Entrepreneurship",
+    "slug": "entrepreneurship/",
+    "description": "Owning and managing your own business. Lessons on topics from responsibilities to growing your team to lifestyle."
+  },
+  {
+    "name": "Marketing",
+    "slug": "marketing/",
+    "description": "Growing and scaling in your industry. Digital, social, word-of-mouth... whatever it takes!"
+  },
+  {
+    "name": "Building Your Website",
+    "slug": "building-your-website/",
+    "description": "All about the website building process. What do you need for your online presence?"
+  }
+]
