@@ -1,5 +1,5 @@
 ---
-label: Sortable list empty values
+label: Conditional fields
 hide_body: false
 fields:
 - name: reading_list
