@@ -3,6 +3,11 @@ label: Conditional fields
 hide_body: false
 display_field: name
 fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 - name: reading_list
   type: list
   config:
@@ -30,10 +35,17 @@ fields:
   showOnly:
     field: hide_number
     value: false
-- name: name
-  type: text
+- name: show_reading_list
+  type: select
+  default: _posts/2017-02-12-modern.md
   config:
     required: false
-  label: name
+    options: []
+    source:
+      type: pages
+      section: jekyll-posts
+      file: 
+      path: 
+  label: show reading list
 pages:
 - _posts/sortable.md
