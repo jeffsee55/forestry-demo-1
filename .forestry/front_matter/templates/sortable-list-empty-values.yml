@@ -1,6 +1,6 @@
 ---
 label: Conditional fields
-hide_body: false
+hide_body: true
 display_field: name
 fields:
 - name: name
