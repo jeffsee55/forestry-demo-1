@@ -12,6 +12,10 @@ fields:
       type: pages
       section: jekyll-posts
   label: reading list
+- name: hide_number
+  type: boolean
+  label: Hide step
+  default: true
 - name: step
   type: number
   label: step
@@ -25,9 +29,5 @@ fields:
   showOnly:
     field: hide_number
     value: false
-- name: hide_number
-  type: boolean
-  label: Hide number
-  default: true
 pages:
 - _posts/sortable.md
