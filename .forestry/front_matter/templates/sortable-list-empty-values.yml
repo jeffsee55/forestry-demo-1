@@ -1,6 +1,7 @@
 ---
 label: Conditional fields
 hide_body: false
+display_field: name
 fields:
 - name: reading_list
   type: list
@@ -29,5 +30,10 @@ fields:
   showOnly:
     field: hide_number
     value: false
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
 pages:
 - _posts/sortable.md
