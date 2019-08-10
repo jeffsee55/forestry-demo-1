@@ -36,7 +36,7 @@ fields:
       section: jekyll-posts
       file: 
       path: 
-  label: show reading list
+  label: Show reading list?
 - name: reading_list
   type: list
   config:
