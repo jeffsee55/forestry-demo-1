@@ -48,4 +48,4 @@ fields:
       section: jekyll-posts
   label: reading list
 pages:
-- _posts/sortable.md
+- _posts/conditional-fields.md
