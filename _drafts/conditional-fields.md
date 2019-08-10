@@ -1,6 +1,6 @@
 ---
 reading_list: []
-step: 0.2
+step: -9.85
 publishdate: ''
 tags:
 - blog
@@ -15,6 +15,8 @@ banner_image: ''
 gallery: []
 this_is_a_label: 
 markdown_description: ''
+hide_number: false
+name: Conditional fields
+show_reading_list: _posts/2017-08-22-research.md
 
 ---
-Hey!
