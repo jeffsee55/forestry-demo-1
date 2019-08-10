@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.6.3"
+gem "jekyll", "~> 3.8"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.9"
   gem "jekyll-menus"
   gem "jekyll-tagging"
   gem "jekyll-archives"
