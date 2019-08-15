@@ -105,8 +105,8 @@ fields:
   label: Markdown description
   description: You can write Markdown here
 pages:
+- _posts/en/first.md
 - _posts/fr/2019-08-15-2019-08-15.md
-- _posts/en/2019-08-15-2019-08-15.md
 - _posts/2017-02-12-modern.md
 - _posts/it-is-key.md
 - _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
