@@ -8,7 +8,7 @@ sections:
   label: Content
 - type: jekyll-posts
   label: Posts
-  create: documents
+  create: all
   templates:
   - sortable-list-empty-values
   - select-with-defined-option
