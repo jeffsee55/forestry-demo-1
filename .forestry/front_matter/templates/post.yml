@@ -91,9 +91,10 @@ fields:
   default: 0
   required: true
   config:
-    min: 
-    max: 
-    step: 
+    min: '0'
+    max: '1'
+    step: '0.1'
+    required: true
 - name: markdown_description
   type: textarea
   default: ''
