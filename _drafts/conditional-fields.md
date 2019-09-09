@@ -1,5 +1,8 @@
 ---
-reading_list: []
+reading_list:
+- _posts/2017-08-22-research.md
+- _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
+- _posts/2017-08-22-research.md
 step: -9.85
 publishdate: ''
 tags:
@@ -17,6 +20,6 @@ this_is_a_label:
 markdown_description: ''
 hide_number: false
 name: Conditional fields
-show_reading_list: _posts/2017-08-22-research.md
+show_reading_list: _posts/conditional-fields.md
 
 ---
