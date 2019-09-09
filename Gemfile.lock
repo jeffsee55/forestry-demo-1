@@ -56,12 +56,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.6.3)
+  jekyll
   jekyll-archives
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-menus
   jekyll-tagging
   tzinfo-data
 
 BUNDLED WITH
-   1.16.2
+   2.0.2
