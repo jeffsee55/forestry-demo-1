@@ -3,7 +3,7 @@ reading_list:
 - _posts/2017-08-22-research.md
 - _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
 - _posts/2017-08-22-research.md
-step: 2
+step: 2.1
 publishdate: ''
 tags:
 - blog
