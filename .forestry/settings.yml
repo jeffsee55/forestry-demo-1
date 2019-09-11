@@ -10,10 +10,7 @@ sections:
   label: Posts
   create: all
   templates:
-  - sortable-list-empty-values
-  - select-with-defined-option
   - post
-  - example
 - type: jekyll-pages
   label: Pages
   create: all
