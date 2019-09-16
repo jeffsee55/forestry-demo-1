@@ -5,7 +5,8 @@ fields:
 - name: block
   type: blocks
   label: Block
-  template_types: []
+  template_types:
+  - sortable-list-empty-values
   config:
     min: 
     max: 
