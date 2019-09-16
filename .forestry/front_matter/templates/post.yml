@@ -110,6 +110,12 @@ fields:
   config:
     required: false
   label: Title
+- name: num
+  type: include
+  config: {}
+  template: block
+  label: Num
+  description: This is a block template containing numbers
 pages:
 - _posts/a-new-draft.md
 - _posts/my-new-post.md
