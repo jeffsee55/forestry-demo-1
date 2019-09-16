@@ -51,5 +51,3 @@ fields:
   showOnly:
     field: show_reading_list
     value: _posts/conditional-fields.md
-pages:
-- _posts/conditional-fields.md
