@@ -105,6 +105,11 @@ fields:
       format: markdown
   label: Markdown description
   description: You can write Markdown here
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 pages:
 - _posts/2017-02-12-modern.md
 - _posts/it-is-key.md
