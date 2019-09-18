@@ -19,10 +19,10 @@ fields:
   description: ''
   config:
     required: false
-    date_format: MMM YYYY
+    date_format: MM/DD/YYYY
     time_format: 
     display_utc: false
-    export_format: MMM YYYY
+    export_format: YYYY-MM-DD
 - name: tags
   label: Tags
   type: tag_list
