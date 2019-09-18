@@ -117,8 +117,8 @@ fields:
   label: Num
   description: This is a block template containing numbers
 pages:
-- _posts/conditional-fields.md
 - _posts/a-new-draft.md
+- _posts/conditional-fields.md
 - _posts/my-new-post.md
 - _posts/2017-02-12-modern.md
 - _posts/it-is-key.md
