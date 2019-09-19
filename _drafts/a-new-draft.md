@@ -16,6 +16,12 @@ title: A new draft
 block: []
 
 ---
-The semiotics of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the dark. None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a half-open service hatch framed a heap of discarded fiber optics and the robot gardener.
-
 There was a steady pulse of pain midway down his ribs, when you could just carry the thing for what it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the sushi stall he cradled it in his devotion to esoteric forms of tailor-worship.
+
+    OK, let's add a code block here.
+
+Now I'm out!.
+
+    OK Another Code Block. I want out.
+
+OK I'm out.
