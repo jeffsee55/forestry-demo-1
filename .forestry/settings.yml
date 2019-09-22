@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
-webhook_url: https://webhook.site/83ee4946-5c3b-43a0-9ba4-f1b3a0126372
+webhook_url: https://webhook.site/0834de0f-5a69-4739-94b4-5135567a0fc8
 sections:
 - type: heading
   label: Content
