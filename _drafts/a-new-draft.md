@@ -16,12 +16,9 @@ title: A new draft
 block: []
 
 ---
-There was a steady pulse of pain midway down his ribs, when you could just carry the thing for what it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the sushi stall he cradled it in his devotion to esoteric forms of tailor-worship.
+## How to escape a code block?
 
-    OK, let's add a code block here.
+    Let's make this a code block.
+    How do I get out now?
 
-Now I'm out!.
-
-    OK Another Code Block. I want out.
-
-OK I'm out.
+A new save.
