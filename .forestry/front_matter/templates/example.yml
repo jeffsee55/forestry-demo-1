@@ -85,3 +85,18 @@ fields:
       file: 
       path: 
   label: people
+- name: meta
+  type: field_group
+  config: {}
+  fields:
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  - name: keywords
+    type: text
+    config:
+      required: false
+    label: keywords
+  label: Meta
