@@ -41,8 +41,7 @@ The form of a verb changes to show who perpetrated the action (person) and when 
 If I want a single line break  
 and then it works.
 
-Ex: Deber --> **Deb** -er (to have to / should)
-
+Ex: Deber --> **Deb** -er (to have to / should)  
 | --- | --- |
 | yo _deb_**o** | nosotros _deb_**emos** |
 | tú _deb_**es** | vosotros _deb_**éis** |
