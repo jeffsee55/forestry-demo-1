@@ -2,6 +2,11 @@
 label: post
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: text
   label: Sub Heading
   name: sub_heading
@@ -105,11 +110,6 @@ fields:
       format: markdown
   label: Markdown description
   description: You can write Markdown here
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
 - name: num
   type: include
   config: {}
