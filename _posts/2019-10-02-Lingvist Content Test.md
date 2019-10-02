@@ -20,7 +20,7 @@ All Spanish verbs end in either _-er_, _-ar,_ or _-ir._ Each category of these v
 All Spanish verbs end in either -*er*, _-ar,_ or _-ir_.
 Each -*er*.
 
-\-_er_
+\-*er*
 
 test
 
