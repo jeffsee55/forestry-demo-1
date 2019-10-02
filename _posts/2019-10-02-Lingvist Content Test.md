@@ -4,7 +4,7 @@ tags:
 - blog
 layout: post
 sub_heading: ''
-date: 
+date: 2019-09-30
 banner_image: ''
 related_posts: []
 gallery: []
