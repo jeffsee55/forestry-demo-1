@@ -11,7 +11,7 @@ gallery: []
 category: ''
 this_is_a_label: 0.1
 markdown_description: ''
-title: ''
+title: Lingvist test
 block: []
 
 ---
