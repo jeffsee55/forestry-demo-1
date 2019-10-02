@@ -29,3 +29,12 @@ test
 Edit in raw editor
 
 Edit in WYSIWYG
+
+# Spanish Verbs
+
+All Spanish verbs end in either _-er_,_ _(_-ar_)_[OUR LINK TO -AR], _or (_-ir_)_[OUR LINK TO -IR]. _Each category of these verbs has specific rules governing how they change to express layers of crucial information about the situation. The category of verbs that ends in _-er _has the most (irregular verbs)[OUR LINK TO IRREGULAR] (72% are irregular), which means that most of the verbs you encounter will unfortunately not follow the regular conjugation scheme. Luckily, the conjugations for _-er _verbs are very similar to _-ir _verbs in the present tense, with only the _vosotros _and _nosotros _forms differing – think of it as a two-for-one deal!
+
+
+## How Verbs Change
+
+The form of a verb changes to show who perpetrated the action (person) and when it occurred 
