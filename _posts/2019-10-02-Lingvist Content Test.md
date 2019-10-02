@@ -3,7 +3,7 @@ publishdate: 2019-10-02 10:26:50 +0000
 tags:
 - blog
 layout: post
-sub_heading: ''
+sub_heading: Lingvist
 date: 2019-09-30
 banner_image: ''
 related_posts: []
