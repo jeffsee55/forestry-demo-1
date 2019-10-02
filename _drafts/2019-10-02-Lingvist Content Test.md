@@ -22,8 +22,6 @@ Each -*er*.
 
 \-_er_
 
-\-_er_
-
 test
 
 test
