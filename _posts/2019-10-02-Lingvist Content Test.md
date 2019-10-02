@@ -54,3 +54,4 @@ Ex: Deber --> **Deb** -er (to have to / should)
 | yo _deb_**o** | nosotros _deb_**emos** |
 | tú _deb_**es** | vosotros _deb_**éis** |
 | él, ella, Ud. _deb_**e** | ellos, ellas, Uds. _deb_**en** |
+
