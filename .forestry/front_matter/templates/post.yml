@@ -117,6 +117,7 @@ fields:
   label: Num
   description: This is a block template containing numbers
 pages:
+- _posts/this-draft-was-added-in-forestry.md
 - _posts/2019-10-02-Lingvist Content Test.md
 - _posts/a-new-draft.md
 - _posts/conditional-fields.md
