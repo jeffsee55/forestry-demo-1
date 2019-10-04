@@ -36,6 +36,10 @@ sections:
 - type: heading
   label: Data
 - type: document
+  path: _data/sections.yml
+  label: Sections
+  match: "**/*"
+- type: document
   path: _data/category.json
   label: Category
 - type: document
