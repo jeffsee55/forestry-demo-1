@@ -126,7 +126,7 @@ fields:
       type: documents
       section: sections
       file: _data/sections.yml
-      path: ''
+      path: sections
   label: Section
 pages:
 - _posts/2019-10-02-Lingvist Content Test.md
