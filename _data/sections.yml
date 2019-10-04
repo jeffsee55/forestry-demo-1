@@ -1,8 +1,6 @@
-product:
- name: Product News
- description: Description would go here
- icon: /images/product.svg
-company:
- name: Product News
- description: Description would go here
- icon: /images/company.svg
+- name: Product News
+  description: Latest product updates
+  icon: /images/icons/product.svg
+- name: Company news
+  description: Latest company news
+  icon: /images/icons/company.svg
