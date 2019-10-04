@@ -1,6 +1,7 @@
-- name: Product News
-  description: Latest product updates
+sections:
+  - name: Product
+  description: Product News
   icon: /images/icons/product.svg
-- name: Company news
-  description: Latest company news
+  - name: Company 
+  description:  Company News
   icon: /images/icons/company.svg
