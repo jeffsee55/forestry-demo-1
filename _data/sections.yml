@@ -1,0 +1,8 @@
+product:
+ name: Product News
+ description: Description would go here
+ icon: /images/product.svg
+company:
+ name: Product News
+ description: Description would go here
+ icon: /images/company.svg
