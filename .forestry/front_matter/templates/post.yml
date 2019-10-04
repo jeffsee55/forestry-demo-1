@@ -116,6 +116,18 @@ fields:
   template: block
   label: Num
   description: This is a block template containing numbers
+- name: section
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: sections
+      file: _data/sections.yml
+      path: product
+  label: Section
 pages:
 - _posts/2019-10-02-Lingvist Content Test.md
 - _posts/conditional-fields.md
