@@ -1,9 +1,7 @@
 sections:
-  -
-    name: Product
+  product:
     description: Product News
     icon: /images/icons/product.svg
-  - 
-    name: Company 
+  company:
     description:  Company News
     icon: /images/icons/company.svg
