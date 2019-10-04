@@ -1,0 +1,30 @@
+---
+label: Sections
+hide_body: true
+fields:
+- type: field_group
+  name: product
+  label: product
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+  - type: file
+    name: icon
+    label: icon
+- type: field_group
+  name: company
+  label: company
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: description
+    label: description
+  - type: file
+    name: icon
+    label: icon
