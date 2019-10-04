@@ -123,10 +123,10 @@ fields:
     required: false
     options: []
     source:
-      type: documents
-      section: categories
-      file: _data/categories.yml
-      path: categories
+      type: pages
+      section: sections
+      file: 
+      path: ''
   label: Section
 pages:
 - _posts/2019-10-02-Lingvist Content Test.md
