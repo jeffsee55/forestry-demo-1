@@ -124,9 +124,9 @@ fields:
     options: []
     source:
       type: documents
-      section: sections
-      file: _data/sections.yml
-      path: ''
+      section: categories
+      file: _data/categories.yml
+      path: categories
   label: Section
 pages:
 - _posts/2019-10-02-Lingvist Content Test.md
