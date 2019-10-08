@@ -2,8 +2,9 @@
 publishdate: 2019-09-16 07:30:53 +0000
 tags:
 - blog
+- kitty
 layout: post
-sub_heading: This is not
+sub_heading: https://i.imgur.com/ngltPdv.jpg
 date: 2019-09-01
 banner_image: ''
 related_posts:
@@ -12,7 +13,7 @@ gallery: []
 category: ''
 this_is_a_label: 1
 markdown_description: ''
-title: A new draft
+title: A post with external images
 block: []
 section: ''
 
@@ -44,4 +45,4 @@ Same goes for code blocks:
     
     Press ENTER two times to insert a blank line
 
-![](https://i.imgur.com/ngltPdv.jpg)
+![A cute white kitty with vairon eyes](https://i.imgur.com/ngltPdv.jpg "Image uploaded from imgur")
