@@ -14,11 +14,34 @@ this_is_a_label: 1
 markdown_description: ''
 title: A new draft
 block: []
+section: ''
 
 ---
-## How to escape a code block?
+## How do I use line breaks?
 
-    Let's make this a code block.
-    How do I get out now?
+By default, when you hit ENTER, it will create a new paragraph.
 
-A new save.
+But if you hit SHIFT+ENTER  
+Then it means all you want  
+Is a line break.
+
+Line breaks are nice  
+When your write poems.
+
+> This is a blockquote.
+>
+> I don't need to press SHIFT+ENTER
+>
+> Line breaks are the default
+>
+> Press two times SHIFT+ENTER  
+> To insert a blank line.
+
+Same goes for code blocks:
+
+    This is some clever code.
+    I am a new line.
+    
+    Press ENTER two times to insert a blank line
+
+![](https://i.imgur.com/ngltPdv.jpg)
