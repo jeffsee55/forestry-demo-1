@@ -8,7 +8,7 @@ fields:
     required: false
   label: Title
 - type: text
-  label: Sub Heading
+  label: External image
   name: sub_heading
   default: ''
 - name: publishdate
