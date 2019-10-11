@@ -26,6 +26,8 @@ But if you hit SHIFT+ENTER
 Then it means all you want  
 Is a line break.
 
+![](https://media.giphy.com/media/3o6YghZV15YGZoOtIk/200w_d.gif)
+
 Line breaks are nice  
 When your write poems.
 
