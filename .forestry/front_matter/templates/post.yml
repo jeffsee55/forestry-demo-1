@@ -51,6 +51,11 @@ fields:
   type: text
   hidden: true
   default: post
+- name: accessible_images
+  type: include
+  config: {}
+  template: image-gallery
+  label: Accessible images
 - name: gallery
   type: field_group_list
   fields:
@@ -129,10 +134,10 @@ fields:
       path: sections
   label: Section
 pages:
-- _posts/a-new-draft.md
-- _posts/2019-10-02-Lingvist Content Test.md
-- _posts/conditional-fields.md
-- _posts/this-draft-was-added-in-forestry.md
-- _posts/2017-02-12-modern.md
-- _posts/it-is-key.md
 - _posts/2019-03-25-pečenka-výsledky-protonu-jsou-tak-průkazné-že-by-v-česku-mělo-vzniknout-druhé.md
+- _posts/it-is-key.md
+- _posts/2017-02-12-modern.md
+- _posts/this-draft-was-added-in-forestry.md
+- _posts/conditional-fields.md
+- _posts/2019-10-02-Lingvist Content Test.md
+- _posts/a-new-draft.md
