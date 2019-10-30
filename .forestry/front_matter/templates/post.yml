@@ -94,17 +94,6 @@ fields:
       file: _data/category.json
       path: categorySlugs
   label: category
-- name: this_is_a_label
-  type: number
-  label: This is a Label
-  description: Here goes the description
-  default: 0
-  required: true
-  config:
-    min: '0'
-    max: '1'
-    step: '0.1'
-    required: true
 - name: markdown_description
   type: textarea
   default: ''
