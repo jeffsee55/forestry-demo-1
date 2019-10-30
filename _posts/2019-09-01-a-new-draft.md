@@ -9,9 +9,15 @@ date: 2019-09-01
 banner_image: ''
 related_posts:
 - _posts/2017-08-01-welcome.md
-gallery: []
+gallery:
+- title: ''
+  image: ''
+  alt: ''
+  caption: ''
+  aria-label: ''
+  name: ''
 category: ''
-this_is_a_label: 1
+this_is_a_label: '1'
 markdown_description: ''
 title: A post with external images
 block: []
