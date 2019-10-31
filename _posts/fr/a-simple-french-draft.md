@@ -13,7 +13,6 @@ gallery: []
 category: ''
 markdown_description: ''
 block: []
-published: false
 
 ---
-OK.
+OK. Now publish it.
