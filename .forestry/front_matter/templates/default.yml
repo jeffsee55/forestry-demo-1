@@ -23,6 +23,8 @@ fields:
   label: layout
   hidden: true
   default: post
+  config:
+    required: true
 pages:
 - en/this-is-a-page.md
 - fr/this-is-a-page.md
