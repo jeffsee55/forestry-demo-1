@@ -9,6 +9,10 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - post
+  - default
+  - sections
 - type: jekyll-pages
   label: Pages
   create: all
