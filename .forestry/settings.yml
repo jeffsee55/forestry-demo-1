@@ -4,15 +4,15 @@ auto_deploy: true
 admin_path: "/admin/"
 webhook_url: https://webhook.site/0834de0f-5a69-4739-94b4-5135567a0fc8
 sections:
-- type: heading
-  label: Content
-- type: jekyll-posts
-  label: Posts
-  create: all
+- type: directory
+  path: _posts/fr
+  label: FR Post
+  create: documents
+  match: "**/*"
   templates:
   - post
-  - default
-  - sections
+- type: heading
+  label: Content
 - type: jekyll-pages
   label: Pages
   create: all
