@@ -9,8 +9,6 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-  templates:
-  - post
 - type: jekyll-pages
   label: Pages
   create: all
