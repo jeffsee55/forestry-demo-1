@@ -24,9 +24,8 @@ sections:
   path: _people
   label: People
   create: documents
-  match: "*"
+  match: "*.md"
   templates:
-  - example
   - person
 - type: directory
   path: _projects
