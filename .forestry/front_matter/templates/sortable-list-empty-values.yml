@@ -17,7 +17,6 @@ fields:
   label: step
   description: ''
   default: 0
-  required: true
   config:
     min: '0'
     max: '10'
