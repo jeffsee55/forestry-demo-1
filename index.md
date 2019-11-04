@@ -32,4 +32,4 @@ menu:
     weight: 1
 
 ---
-Can I deploy to GiHub Pages in the docs folders?
+So welcome Jeff today!
