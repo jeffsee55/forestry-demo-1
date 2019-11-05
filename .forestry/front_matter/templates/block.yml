@@ -6,8 +6,9 @@ fields:
   type: blocks
   label: Block
   template_types:
-  - sortable-list-empty-values
   - sections
+  - sortable-list-empty-values
+  - image-gallery
   config:
     min: 
     max: 
