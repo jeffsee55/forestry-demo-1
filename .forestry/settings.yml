@@ -17,6 +17,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - block
   - image-gallery
   - landing-page
   - default
