@@ -16,6 +16,6 @@ sub_heading: Another one bit the dust.
 published: false
 
 ---
-Specific content.
+Specific content.Here.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLGSWwRh5PgcS5KcuffvjW4-CGrdzkhQD3mw1MsEX3Jbi1AfaDfvDKlFF7yLkN5wV917_ej2fpnAu3/embed?start=false&amp;loop=false&amp;delayms=60000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLGSWwRh5PgcS5KcuffvjW4-CGrdzkhQD3mw1MsEX3Jbi1AfaDfvDKlFF7yLkN5wV917_ej2fpnAu3/embed?start=false&loop=false&delayms=60000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
