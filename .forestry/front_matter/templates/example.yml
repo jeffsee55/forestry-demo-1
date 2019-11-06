@@ -67,9 +67,9 @@ fields:
       time_format: 
       display_utc: false
   config:
-    min: 
-    max: 
-    labelField: date
+    min: '1'
+    max: '2'
+    labelField: name
   label: Authors
 - name: meta
   type: field_group
