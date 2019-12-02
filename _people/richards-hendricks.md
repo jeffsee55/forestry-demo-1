@@ -5,7 +5,7 @@ role:
 layout: person
 title: Richards Hendricks
 sub_heading: CEO
-thumbnail: "/Richard_Hendricks.jpg"
+thumbnail: "/richard_hendricks.jpg"
 email: richards@piedpieper.com
 linkedin: ''
 published: false
