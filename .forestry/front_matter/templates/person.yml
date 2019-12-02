@@ -17,9 +17,11 @@ fields:
 - name: role
   label: Departments
   type: list
-  hidden: true
+  hidden: false
   default: staff
   description: ''
+  config:
+    use_select: false
 - name: email
   label: Email
   type: text
