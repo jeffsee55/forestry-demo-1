@@ -38,6 +38,6 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/charlize-babatunde.md
 - _people/gilfoyle.md
 - _people/richards-hendricks.md
-- _people/charlize-babatunde.md

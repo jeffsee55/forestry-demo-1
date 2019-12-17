@@ -79,5 +79,5 @@ fields:
   hidden: true
   default: home
 pages:
-- page.md
 - index.md
+- page.md
