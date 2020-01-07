@@ -17,3 +17,7 @@ published: false
 
 ---
 I renamed the template file.
+
+I renamed the template file. [Link](https://dark.com)
+
+I renamed the template file. [Link](https://dark.com)
