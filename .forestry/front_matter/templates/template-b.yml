@@ -1,4 +1,14 @@
 ---
 label: Template B
 hide_body: true
-fields: []
+fields:
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: template_a
+  type: include
+  config: {}
+  template: template-a
+  label: Template A
