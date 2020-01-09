@@ -12,3 +12,5 @@ fields:
   config: {}
   template: template-a
   label: Template A
+pages:
+- included-template-with-hidden-field.md
