@@ -17,6 +17,7 @@ sections:
   label: Pages
   create: all
   templates:
+  - template-b
   - example
   - default
   - block
