@@ -27,5 +27,6 @@ fields:
     required: true
 pages:
 - en/this-is-a-page.md
+- en/where-do-i-go.md
 - fr/this-is-a-page.md
 - fr/this-should-be-in-fr-folder.md
