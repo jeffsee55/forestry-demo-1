@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - posts
+  - blogpost
 - type: heading
   label: Content
 - type: jekyll-pages
