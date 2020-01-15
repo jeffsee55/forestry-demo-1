@@ -122,5 +122,3 @@ fields:
       file: _data/sections.yml
       path: sections
   label: Section
-pages:
-- _posts/fr/hi.md
