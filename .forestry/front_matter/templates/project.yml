@@ -1,6 +1,7 @@
 ---
 label: project
 hide_body: false
+display_field: sub_heading
 fields:
 - type: text
   name: title
