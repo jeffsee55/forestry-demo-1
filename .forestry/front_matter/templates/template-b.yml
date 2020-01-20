@@ -12,3 +12,5 @@ fields:
   config: {}
   template: template-a
   label: Template A
+pages:
+- this-uses-template-b.md
