@@ -12,5 +12,5 @@ fields:
   config:
     required: false
   label: layout
-  hidden: false
+  hidden: true
   default: page
