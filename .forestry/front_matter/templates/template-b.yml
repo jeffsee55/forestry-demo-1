@@ -13,4 +13,5 @@ fields:
     required: false
   label: description
 pages:
+- i-should-have-page-layout.md
 - this-uses-template-b.md
