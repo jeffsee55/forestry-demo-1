@@ -13,3 +13,14 @@ fields:
     required: false
   label: layout
   hidden: true
+  default: page
+- name: number
+  type: number
+  label: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: "-10"
+    max: '10'
+    step: 
