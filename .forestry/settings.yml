@@ -5,6 +5,14 @@ admin_path: "/admin/"
 webhook_url: https://webhook.site/0834de0f-5a69-4739-94b4-5135567a0fc8
 sections:
 - type: directory
+  path: _posts
+  label: Posts
+  create: all
+  match: "**/*"
+  templates:
+  - posts
+  - blogpost
+- type: directory
   path: _posts/fr
   label: FR Post
   create: all
