@@ -12,5 +12,5 @@ Kramdown attributes in raw mode:
 A nice blockquote
 {: title="Blockquote title"}
 
-a link
+[a link](http://forestry.io "Open in new tab")
 {: target="_blank"}
