@@ -15,4 +15,10 @@ markdown_description: ''
 block: []
 
 ---
-Are we good?
+Kramdown attributes in raw mode: 
+
+> A nice blockquote
+{: title="Blockquote title"}
+
+[a link](https://forestry.io)
+{: target="_blank"}

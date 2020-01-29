@@ -2,16 +2,13 @@
 label: Template B
 hide_body: true
 fields:
-- name: template_a
-  type: include
-  config: {}
-  template: template-a
-  label: Template A
 - name: description
   type: text
   config:
     required: false
   label: description
-pages:
-- i-should-have-page-layout.md
-- this-uses-template-b.md
+- name: template_a
+  type: include
+  config: {}
+  template: template-a
+  label: Template A
