@@ -37,4 +37,4 @@ fields:
     min: 
     max: 
     step: 
-    required: true
+    required: false
