@@ -34,6 +34,8 @@ fields:
   hidden: false
   default:
   - blog
+  - news
+  - tech
 - type: file
   name: banner_image
   label: Banner Image
@@ -44,8 +46,10 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
-      section: jekyll-posts
+      type: documents
+      section: categories
+      file: _data/categories.yml
+      path: categories
 - name: layout
   label: Layout
   type: text
