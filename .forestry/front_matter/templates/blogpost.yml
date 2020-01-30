@@ -42,7 +42,7 @@ fields:
   description: Ideal dimensions 2500px by 1200px
 - type: list
   name: related_posts
-  label: Related Posts
+  label: Categories
   config:
     use_select: true
     source:
