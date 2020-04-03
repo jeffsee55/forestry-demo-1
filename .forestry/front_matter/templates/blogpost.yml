@@ -11,13 +11,6 @@ fields:
   label: External image
   name: sub_heading
   default: ''
-- name: publishdate
-  label: Publish Date
-  type: datetime
-  hidden: false
-  default: now
-  config:
-    date_format: LL
 - name: tags
   label: Tags
   type: tag_list
@@ -40,27 +33,13 @@ fields:
       section: categories
       file: _data/categories.yml
       path: categories
-- name: layout
-  label: Layout
-  type: text
-  hidden: true
-  default: post
-- name: accessible_images
-  type: include
-  config: {}
-  template: image-gallery
-  label: Accessible images
-- name: date
+- name: publishdate
+  label: Publish Date
   type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: MM/DD/YYYY
-    time_format: 
-    display_utc: false
-    export_format: YYYY-MM-DD
+  hidden: false
   default: now
+  config:
+    date_format: LL
 - name: gallery
   type: field_group_list
   fields:
@@ -94,48 +73,5 @@ fields:
     max: 
     labelField: name
   label: Gallery
-- name: category
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - one
-    - two
-    - three
-    source:
-      type: documents
-      section: category
-      file: _data/category.json
-      path: categorySlugs
-  label: category
-- name: markdown_description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Markdown description
-  description: You can write Markdown here
-- name: num
-  type: include
-  config: {}
-  template: block
-  label: Num
-  description: This is a block template containing numbers
-- name: section
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: documents
-      section: sections
-      file: _data/sections.yml
-      path: sections
-  label: Section
 pages:
 - _posts/fr/ok.md
