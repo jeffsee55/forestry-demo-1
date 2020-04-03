@@ -18,16 +18,6 @@ fields:
   default: now
   config:
     date_format: LL
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: MM/DD/YYYY
-    time_format: 
-    display_utc: false
-    export_format: YYYY-MM-DD
 - name: tags
   label: Tags
   type: tag_list
@@ -60,6 +50,17 @@ fields:
   config: {}
   template: image-gallery
   label: Accessible images
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: MM/DD/YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
 - name: gallery
   type: field_group_list
   fields:
@@ -78,6 +79,16 @@ fields:
     config:
       required: false
     label: caption
+  - name: date
+    type: datetime
+    label: Date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    default: now
   config:
     min: 
     max: 
