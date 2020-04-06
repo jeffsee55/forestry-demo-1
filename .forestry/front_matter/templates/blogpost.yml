@@ -64,7 +64,7 @@ fields:
     description: ''
     config:
       required: false
-      date_format: 
+      date_format: LL
       time_format: 
       display_utc: false
     default: now
