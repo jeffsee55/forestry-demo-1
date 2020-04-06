@@ -53,6 +53,7 @@ fields:
     config:
       required: false
     label: name
+    default: Default Name
   - name: caption
     type: text
     config:
