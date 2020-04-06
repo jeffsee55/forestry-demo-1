@@ -73,5 +73,13 @@ fields:
     max: 
     labelField: name
   label: Gallery
+- name: test_blocks
+  type: blocks
+  label: Test Blocks
+  template_types:
+  - blogpost
+  config:
+    min: 
+    max: 
 pages:
 - _posts/fr/ok.md
