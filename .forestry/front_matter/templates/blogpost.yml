@@ -59,6 +59,7 @@ fields:
     config:
       required: false
     label: caption
+    default: This is my default caption
   - name: date
     type: datetime
     label: Date
