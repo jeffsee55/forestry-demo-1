@@ -2,11 +2,12 @@
 label: post
 hide_body: false
 fields:
-- name: title
+- name: titleHow_is_this_a_test_areaHow_is_this_a_test_areaHow_is_this_a_test_areaHow_is_this_a_test_areaHow_is_this_a_test_areaHow_is_this_a_test_area
   type: text
   config:
     required: false
   label: Title
+  description: Here's a descript with a [link](https://example.com)
 - type: text
   label: External image
   name: sub_heading
