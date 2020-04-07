@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Title
-  description: Here's a descript with a [link](https://example.com)
+  description: Here's a descript with a <a href="https://example.coma" title="https://example.coma">linkkk</a>
 - type: text
   label: External image
   name: sub_heading
