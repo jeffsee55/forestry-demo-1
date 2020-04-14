@@ -7,8 +7,9 @@ fields:
   config:
     required: false
   label: Title
-  description: Here's a descript with a <a href="https://example.coma" title="https://example.coma">linkkk</a>
-    - what about some headers...<br><br><br><br><strong>Or boldness<br><br></strong><em>Italics?</em>
+  description: Ok Here's a text<br><br>### Table | French | German | English | | ------
+    | ------ | ------- | | Mot | Wort | Word | | Salut | Hallo | Hello | | | | |<br><br>And
+    now what? A <a href="https://example.com" title="Let's go">link</a>
 - type: text
   label: External image
   name: sub_heading
