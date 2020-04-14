@@ -8,9 +8,8 @@ fields:
     required: false
   label: Title
   description: Ok <a href="https://google.com" title="A Link" target="_blank">Here</a>'s
-    a <strong>text</strong><br><br>### Table | French | German | English | | ------
-    | ------ | ------- | | Mot | Wort | Word | | Salut | Hallo | Hello | | | | |<br><br>And
-    now ?
+    a text<br>And <a href="https://example.com" title="externallll" target="_blank">now</a>
+    ?
 - type: text
   label: External image
   name: sub_heading
