@@ -52,6 +52,7 @@ fields:
       maxSize: '1'
     label: image
     default: "/bus-icon.png"
+    description: "<strong>Here we go</strong>"
   - name: name
     type: text
     config:
