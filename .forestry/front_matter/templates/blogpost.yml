@@ -7,9 +7,9 @@ fields:
   config:
     required: false
   label: Title
-  description: Ok Here's a text<br><br>### Table | French | German | English | | ------
-    | ------ | ------- | | Mot | Wort | Word | | Salut | Hallo | Hello | | | | |<br><br>And
-    now ? <a href="https://google.com" title="https://google.com">New LINK</a>
+  description: Ok <a href="https://google.com" title="A Link">Here</a>'s a text<br><br>###
+    Table | French | German | English | | ------ | ------ | ------- | | Mot | Wort
+    | Word | | Salut | Hallo | Hello | | | | |<br><br>And now ?
 - type: text
   label: External image
   name: sub_heading
