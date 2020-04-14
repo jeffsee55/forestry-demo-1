@@ -9,7 +9,7 @@ fields:
   label: Title
   description: Ok Here's a text<br><br>### Table | French | German | English | | ------
     | ------ | ------- | | Mot | Wort | Word | | Salut | Hallo | Hello | | | | |<br><br>And
-    now what? A <a href="https://example.com" title="Let's go">link</a>
+    now what? <a href="https://google.com" title="https://google.com">New LINK</a>
 - type: text
   label: External image
   name: sub_heading
