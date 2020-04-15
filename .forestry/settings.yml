@@ -12,13 +12,6 @@ sections:
   templates:
   - posts
   - blogpost
-- type: directory
-  path: _posts/fr
-  label: FR Post
-  create: all
-  match: "**/*"
-  templates:
-  - blogpost
 - type: heading
   label: Content
 - type: jekyll-pages
